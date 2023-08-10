@@ -1,0 +1,33 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/trigeminal-neuropathic-pain---primary.py
+inputModule3:
+  class: File
+  path: python/postherpetic-neuropathic-pain---primary.py
+inputModule4:
+  class: File
+  path: python/neuropathic-pain-neuralgia---primary.py
+inputModule5:
+  class: File
+  path: python/diabetic-neuropathic-pain---primary.py
+inputModule6:
+  class: File
+  path: python/neuropathic-pain---primary.py
+inputModule7:
+  class: File
+  path: python/neuropathic-pain-neuritis---primary.py
+inputModule8:
+  class: File
+  path: python/neuropathy-neuropathic-pain---primary.py
+inputModule9:
+  class: File
+  path: python/neuropathic-pain-sciatica---primary.py
+inputModule10:
+  class: File
+  path: python/acute-neuropathic-pain---primary.py
+inputModule11:
+  class: File
+  path: python/output-cases.py
